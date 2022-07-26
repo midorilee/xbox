@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.custom{
-    background: url(http://mrmcpowned.com/gamepad/xbox-assets/base.svgz);
+    background: url(https://raw.githubusercontent.com/midorilee/xbox/main/base.svg);
     height: 630px;
     width: 750px;
     margin-left: -375px;
